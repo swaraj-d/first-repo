@@ -1,3 +1,5 @@
 # HEADER
 
-Sample text.
+Edited sample text.
+
+Some more sample text.
